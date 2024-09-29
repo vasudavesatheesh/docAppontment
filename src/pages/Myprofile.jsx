@@ -3,8 +3,8 @@ import {assets} from '../assets/assets'
 
 const Myprofile = () => {
   const[userData,setuserData]=useState({
-    name:'Vinayak Mahadev',
-    image:assets.profile_pic2,
+    name:'Amelia Varkey',
+    image:assets.profile_pic3,
     email:'unknown@gmail.com',
     phone:'123 456 789',
     address:{
